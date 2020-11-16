@@ -23,7 +23,7 @@ homebrew_installed_packages:
 #  - jmeter # Load testing and performance measurement application
 #  - maven # Java-based project management
   # *** GO lang ***
-  - go
+#  - go
   # *** Python ***
   - python
   - python3
@@ -63,8 +63,8 @@ homebrew_installed_packages:
 
 homebrew_taps:
   - homebrew/core
-  - caskroom/cask
-  - homebrew/versions
+  - homebrew/cask
+  - homebrew/cask-versions
   - adoptopenjdk/openjdk
 
 homebrew_cask_appdir: /Applications
@@ -92,7 +92,7 @@ homebrew_cask_apps:
   - virtualbox
 # Dev environment
 #  - phantomjs
-  - adoptopenjdk8n #Java JDK
+#  - adoptopenjdk8n #Java JDK
   - adoptopenjdk11 #Java JDK
   - sourcetree # Graphical client for Git version control
 #  - postman # Collaboration platform for API development
@@ -117,7 +117,7 @@ mas_installed_app_ids:
   - 425955336 # Skitch
   - 472226235 # LanScan
   - 1295203466 # Microsoft Remote Desktop
-  - 1362171212 # Caffeinated
+#  - 1362171212 # Caffeinated
 
 #mas_email: ""
 #mas_password: ""
