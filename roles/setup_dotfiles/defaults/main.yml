@@ -1,7 +1,7 @@
 ---
-dotfiles_repo: "https://github.com/DemisR/dotfiles.git"
+dotfiles_repo: "https://github.com/dmit2k/mydotfiles.git"
 dotfiles_repo_accept_hostkey: no
-dotfiles_repo_local_destination: "~/Documents/dotfiles"
+dotfiles_repo_local_destination: "~/Projects/dotfiles"
 
 dotfiles_home: "~"
 dotfiles_files:
